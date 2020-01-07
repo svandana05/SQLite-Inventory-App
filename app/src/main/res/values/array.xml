@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="supplier_array">
+        <item>-Select Supplier-</item>
+        <item>Meridian</item>
+        <item>Olip Itali Spa</item>
+        <item>Lucky Zone</item>
+        <item>Unique Treasure</item>
+    </string-array>
+</resources>
